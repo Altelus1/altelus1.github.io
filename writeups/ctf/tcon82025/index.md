@@ -3,7 +3,7 @@ layout: page
 title: TCON8 (2025)
 type: ctf_main
 meta: Capture the flag competition hosted by HackTheNorth. It's the 8th iteration of the CTF and we managed to get 1st place as shinigami.ph
-image: img/tcon8.jpg
+image: /writeups/ctf/tcon82025/img/tcon8.jpg
 ---
 
 
